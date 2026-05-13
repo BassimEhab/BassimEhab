@@ -91,7 +91,7 @@
 - **DevOps:** Orchestrated a multi-service environment with **Docker Compose**, reducing environment setup time from 2 hours to **5 minutes**.
 - **Reliability:** Achieved **99% email delivery reliability** using Hangfire jobs and Polly retry policies, with **85% test coverage** via xUnit and Moq.
 - **Architecture:** Built on **Clean Architecture** with Specification and Result Patterns for clean, maintainable logic.
-- [🔗 Source Code](رابط_المستودع_هنا)
+- [🔗 Source Code](https://github.com/DotCrest/Taskify-Backend)
 
 ## 🧠 RecoMind Backend (Microservices)
 *Scalable Microservices platform built on an event-driven architecture.*
@@ -100,28 +100,19 @@
 - **Communication:** Implemented **gRPC** for internal calls, reducing inter-service latency by **~40%** compared to REST.
 - **Messaging:** Integrated **RabbitMQ via MassTransit** for asynchronous domain events, decoupling services for better resiliency.
 - **Quality:** Maintained **80%+ unit test coverage** using xUnit, Moq, and FluentAssertions to ensure system stability.
-- [🔗 Source Code](رابط_المستودع_هنا)
+- [🔗 Source Code](https://github.com/RecoMind-Company/RecoMind-Backend)
 
----
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammad4544&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad4544&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 📫 Connect With Me
-<p>
-<a href="https://www.linkedin.com/in/ahmed-hammad-8aaa1a340/">
-<img src="https://img.shields.io/badge/LinkedIn-AhmedHammad-blue?style=for-the-badge&logo=linkedin"/>
+<p align="left">
+<a href="https://www.linkedin.com/in/bassem-ehab">
+  <img src="https://img.shields.io/badge/LinkedIn-Bassem%20Ehab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:ahmedhammad103201@gmail.com">
-<img src="https://img.shields.io/badge/Email-ahmedhammad103201@gmail.com-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:bassemfullstack@gmail.com">
+<img src="https://img.shields.io/badge/Email-bassemfullstack@gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
-<a href="https://github.com/Hammad4544">
-<img src="https://img.shields.io/badge/GitHub-Hammad4544-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/BassimEhab">
+<img src="https://img.shields.io/badge/GitHub-BassimEhab-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
