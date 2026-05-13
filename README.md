@@ -83,6 +83,14 @@
 - **Messaging:** RabbitMQ (Event-Driven Architecture).
 - **Version Control:** Git & GitHub.
 # 🏆 Featured Projects
+## 🧠 RecoMind Backend (Microservices)
+*Scalable Microservices platform built on an event-driven architecture.*
+- **Tech Stack:** .NET 8, gRPC, RabbitMQ (MassTransit), SQL Server, Docker, SignalR.
+- **Architecture:** Designed **13 independently deployable services**, ensuring clear boundaries and high scalability.
+- **Communication:** Implemented **gRPC** for internal calls, reducing inter-service latency by **~40%** compared to REST.
+- **Messaging:** Integrated **RabbitMQ via MassTransit** for asynchronous domain events, decoupling services for better resiliency.
+- **Quality:** Maintained **80%+ unit test coverage** using xUnit, Moq, and FluentAssertions to ensure system stability.
+- [🔗 Source Code](https://github.com/RecoMind-Company/RecoMind-Backend)
 
 ## 📝 Taskify Backend API
 *Advanced Workspace Management system designed for high performance and scalability.*
@@ -93,14 +101,6 @@
 - **Architecture:** Built on **Clean Architecture** with Specification and Result Patterns for clean, maintainable logic.
 - [🔗 Source Code](https://github.com/DotCrest/Taskify-Backend)
 
-## 🧠 RecoMind Backend (Microservices)
-*Scalable Microservices platform built on an event-driven architecture.*
-- **Tech Stack:** .NET 8, gRPC, RabbitMQ (MassTransit), SQL Server, Docker, SignalR.
-- **Architecture:** Designed **13 independently deployable services**, ensuring clear boundaries and high scalability.
-- **Communication:** Implemented **gRPC** for internal calls, reducing inter-service latency by **~40%** compared to REST.
-- **Messaging:** Integrated **RabbitMQ via MassTransit** for asynchronous domain events, decoupling services for better resiliency.
-- **Quality:** Maintained **80%+ unit test coverage** using xUnit, Moq, and FluentAssertions to ensure system stability.
-- [🔗 Source Code](https://github.com/RecoMind-Company/RecoMind-Backend)
 
 
 # 📫 Connect With Me
